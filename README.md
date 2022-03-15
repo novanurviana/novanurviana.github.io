@@ -3,7 +3,7 @@
 
 **Description:**
 Are you looking for a template, which you can use as a website for your portfolio? Check it right now! It's simple, creative and beautiful. It consists of different blocks, which you can change as you wish. Don't overthink just grab it and use:)
-### [LIVE](https://vladyslav.github.io/Rosie-Portfolio/)
+### [LIVE](https://novanurviana.github.io/)
 **Technologies used:**
  - HTML
  - CSS
